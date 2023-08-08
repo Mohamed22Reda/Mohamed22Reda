@@ -21,7 +21,9 @@
 
 <a href="https://www.linkedin.com/in/mohamed-reda-846a09205/" target="_blank"><img src="https://img.shields.io/badge/Mohamed%20Reda-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="https://www.facebook.com/profile.php?id=100014424210605" target="_blank"><img src="https://img.shields.io/badge/Mohamed%20Reda-0077B5?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
-### 🛠 &nbsp;Tech Stack
+
+### 🛠 &nbsp;Languages and Tools:
+
 ![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=Dart)&nbsp;
 ![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=Flutter&logoColor=563D7C)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
